@@ -1,4 +1,4 @@
-# SOFTARCHroject (Quiz Project)
+# SOFTARCHProject (Quiz Project)
 
 Helps with tests, calculates the correct answers of students
 
