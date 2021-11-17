@@ -1,4 +1,4 @@
-# Android-Project (Quiz Project)
+# SOFTARCHroject (Quiz Project)
 
 Helps with tests, calculates the correct answers of students
 
